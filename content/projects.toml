@@ -1,0 +1,50 @@
+[[project]]
+type = "large"
+category = "Mechanical design"
+cover = "slides/slide 1.png"
+total_rows = 2
+total_cols = 2
+[[project.grid_item]]
+rows = 1
+cols = 2
+type = "title"
+content = "Rigid flange coupling"
+[[project.grid_item]]
+rows = 1
+cols = 2
+type = "text"
+content = "Course design task for 37.5 kW at 180 rpm with a safety factor of 1.5. Shaft torque T = 60P / (2πN) = 60 × 37 500 / (2π × 180) ≈ 1 989 N·m, so the design torque is 1.5 × T ≈ 2 984 N·m. Modelled and drawn in SolidWorks. Full calculations and drawings are in the Archive."
+
+[[project]]
+type = "large"
+category = "In progress"
+cover = "slides/slide 2.png"
+total_rows = 2
+total_cols = 2
+[[project.grid_item]]
+rows = 1
+cols = 2
+type = "title"
+content = "Smart bin"
+[[project.grid_item]]
+rows = 1
+cols = 2
+type = "text"
+content = "In progress. Details will be added as the project is completed."
+
+[[project]]
+type = "large"
+category = "Mechanical design"
+cover = "slides/slide 3.png"
+total_rows = 2
+total_cols = 2
+[[project.grid_item]]
+rows = 1
+cols = 2
+type = "title"
+content = "Lathe tailstock"
+[[project.grid_item]]
+rows = 1
+cols = 2
+type = "text"
+content = "Description to be added: what the part does and what my role was."

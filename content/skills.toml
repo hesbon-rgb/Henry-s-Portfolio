@@ -1,0 +1,17 @@
+[[section]]
+name = "Drawing and CAD"
+
+[[section.skill]]
+name = "SolidWorks"
+icon = "material-symbols:architecture"
+
+[[section]]
+name = "Graphic design"
+
+[[section.skill]]
+name = "Canva"
+icon = "material-symbols:design-services-outline"
+
+[[section.skill]]
+name = "Adobe Photoshop"
+icon = "material-symbols:brush-outline"

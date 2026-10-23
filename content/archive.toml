@@ -1,0 +1,16 @@
+title = "Technical archive"
+intro = "Full calculations, drawings and models for readers who want the detail."
+
+[[item]]
+title = "Rigid flange coupling"
+meta = "37.5 kW, 180 rpm, safety factor 1.5"
+text = "Shaft torque\nT = 60P / (2πN)\n  = 60 × 37 500 / (2π × 180)\n  = 2 250 000 / 1 130.97\n  = 1 989 N·m\n\nDesign torque = 1.5 × 1 989 ≈ 2 984 N·m\n\nThe supplied flange-coupling calculation document is embedded above and available to open or download."
+
+[[item]]
+title = "Smart bin"
+meta = "In progress"
+text = "To add: goal and requirements, concept sketches, current CAD and remaining work."
+
+[[item]]
+title = "Lathe tailstock"
+text = "To add: purpose and role, part and assembly drawings, dimensions, tolerances and material."

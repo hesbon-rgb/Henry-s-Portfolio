@@ -1,0 +1,74 @@
+title = "Creative work"
+intro = "A selection of visual identity, poster and apparel work. More designs and Canva links can be added as the portfolio grows."
+
+[[item]]
+title = "Personal logo"
+category = "Brand identity"
+meta = "Personal visual identity"
+text = "A custom monogram and wordmark developed as a personal identity."
+[[item.images]]
+src = "Graphics/henry-logo.webp"
+alt = "Personal Henry monogram logo on a textured background"
+caption = "Personal logo"
+
+[[item]]
+title = "CAD software services poster"
+category = "Personal paid work"
+meta = "Independent promotional design"
+text = "A personal promotional poster advertising paid software installation services for Revit, SolidWorks and AutoCAD."
+[[item.images]]
+src = "Graphics/updated-poster.webp"
+alt = "Promotional poster for Revit, SolidWorks and AutoCAD installation services"
+caption = "CAD software services poster"
+
+[[item]]
+title = "Automotive Club poster"
+category = "Posters"
+meta = "Automotive Club, Moi University"
+text = "A publicity poster introducing Automotive Club activities, including vehicle servicing, diagnostics and restoration."
+[[item.images]]
+src = "Graphics/your-paragraph-text.webp"
+alt = "Automotive Club event poster with automotive activities and event information"
+caption = "Automotive Club poster"
+
+[[item]]
+title = "Personal jersey design"
+category = "Apparel"
+meta = "Custom apparel concept"
+text = "A personalized jersey concept, including front and back views and custom number placement."
+[[item.images]]
+src = "Graphics/henrys-jersey.webp"
+alt = "Front and back views of a custom red and black jersey design"
+caption = "Personal jersey design"
+
+[[item]]
+title = "Logo design exploration 01"
+category = "Logo design"
+meta = "Canva design"
+text = "A logo design shared on Canva."
+link = "https://canva.link/56n6u2aeaupb1q2"
+link_label = "View logo on Canva"
+
+[[item]]
+title = "Logo design exploration 02"
+category = "Logo design"
+meta = "Canva design"
+text = "A second logo design shared on Canva."
+link = "https://canva.link/otozjbng9cn3t8w"
+link_label = "View logo on Canva"
+
+[[item]]
+title = "Logo design exploration 03"
+category = "Logo design"
+meta = "Canva design"
+text = "Another logo design shared on Canva."
+link = "https://canva.link/yhrbulvo4jd5q6l"
+link_label = "View logo on Canva"
+
+[[item]]
+title = "Trivia Thursday logo"
+category = "Logo design"
+meta = "My first logo"
+text = "The first logo I created, shared on Canva."
+link = "https://canva.link/481vvwkhcjgetqo"
+link_label = "View my first logo on Canva"
