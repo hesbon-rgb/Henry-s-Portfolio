@@ -1,0 +1,17 @@
+title = "3D models"
+intro = "Rotate, zoom and pan each model. for viewing"
+
+[[model]]
+name = "Rigid flange coupling"
+file = "Protected_flange_couple.glb"
+description = "SolidWorks assembly exported to GLB. by Hhg"
+
+[[model]]
+name = "Lathe tailstock"
+file = "Assembly_Lathe_tail_stock.glb"
+description = "SolidWorks assembly exported to GLB. by Hhg"
+
+[[model]]
+name = "Smart bin"
+file = "smart_bin.glb"
+description = "SolidWorks assembly exported to GLB. by Hhg"

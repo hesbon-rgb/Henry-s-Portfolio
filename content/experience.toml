@@ -1,0 +1,20 @@
+[[experience]]
+company = "Automotive Club, Moi University"
+position = "Publicity Head"
+timeline = "Current"
+summary = "Leading publicity for the club, sharing its activities and supporting its visual communication."
+tags = ["Leadership", "Publicity", "Automotive"]
+
+[[experience]]
+company = "ESA-MU"
+position = "Member, Projects Committee"
+timeline = "Current"
+summary = "Member of the projects committee. Add what you have worked on and contributed."
+tags = ["Projects", "Teamwork"]
+
+[[experience]]
+company = "TSA"
+position = "Editorial Committee"
+timeline = "Past role"
+summary = "Assisted in making posters for events and activities."
+tags = ["Posters", "Canva", "Photoshop"]

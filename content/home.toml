@@ -1,0 +1,40 @@
+name="Henry Hesbon Gudo"
+description="Mechanical, Production and Energy Engineering student at Moi University in Eldoret, Kenya.\nI create mechanical models and technical drawings in SolidWorks, and visual designs with Canva and Adobe Photoshop. I also serve as Publicity Head of the Automotive Club at Moi University."
+photo="Hhg.png"
+# Set to true once Hhg.png is a background-removed (transparent) PNG
+photo_cutout=false
+
+[[slide]]
+image="slides/slide 1.png"
+caption="Rigid flange coupling"
+
+[[slide]]
+image="slides/slide 2.png"
+caption="Smart bin (in progress)"
+
+[[slide]]
+image="slides/slide 3.png"
+caption="Lathe tailstock"
+
+[[contact]]
+name = "GitHub"
+link = "https://github.com/hesbon-rgb"
+icon = "devicon:github"
+# color = "#000000"
+
+[[contact]]
+name = "LinkedIn"
+link = "https://linkedin.com/in/henry-gudo"
+icon = "devicon:linkedin"
+
+[[contact]]
+name = "Twitter"
+link = "https://x.com/HenryHesbo34335"
+icon = "devicon:twitter"
+# color = "#1da1f2"
+
+[[contact]]
+name = "Email"
+link = "mailto:henryhesbon467@gmail.com"
+icon = "material-symbols:alternate-email"
+# color = "#000000"

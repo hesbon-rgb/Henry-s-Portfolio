@@ -1,0 +1,16 @@
+title = "Certifications"
+intro = "These are SolidWorks practice (sample) exams. Targeting to gain more and more and finally work out the official CSWA exam. Not just thank for there is more to be achieved"
+
+[[item]]
+title = "SolidWorks sample exams"
+meta = "CSWA sample: passed, 95 (pass mark 90), 11 Oct 2026\nCSWP Segment 1 sample: passed, 85 (pass mark 75), 15 Oct 2026"
+text = "Result records are on the Virtual Tester verification service."
+link = "https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-QZ54W8KDRY"
+link_label = "Verification record 1"
+
+[[item]]
+title = "Second verification record"
+meta = "SolidWorks"
+text = "Rename this entry once you confirm which exam the link belongs to."
+link = "https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-E2CQPW9YKX"
+link_label = "Verification record 2"

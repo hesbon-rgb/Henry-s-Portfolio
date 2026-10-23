@@ -1,0 +1,47 @@
+title="Henry H. Gudo's Portfolio"
+icon="material-symbols:architecture"
+
+[navigation.profile]
+enabled=true
+name="Henry H.Gudo"
+icon="material-symbols:home-outline"
+
+[navigation.projects]
+enabled=true
+name="Projects"
+icon="material-symbols:folder-code-outline"
+
+[navigation.certifications]
+enabled=true
+name="Certifications"
+icon="material-symbols:verified-outline"
+
+[navigation.archive]
+enabled=true
+name="Archive"
+icon="material-symbols:folder-open-outline"
+
+[navigation.design]
+enabled=true
+name="Design"
+icon="material-symbols:palette-outline"
+
+[navigation.models]
+enabled=true
+name="3D Models"
+icon="material-symbols:view-in-ar-outline"
+
+[navigation.experience]
+enabled=true
+name="Experience"
+icon="material-symbols:work-outline"
+
+[navigation.skills]
+enabled=true
+name="Skills"
+icon="game-icons:skills"
+
+[navigation.resume]
+enabled=true
+name="Resume"
+icon="qlementine-icons:resume-16"
